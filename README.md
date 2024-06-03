@@ -14,7 +14,7 @@ Trained using a RandomForestClassifier from the scikit-learn library.
 
 Usage:
 
-Open your web browser and navigate to http://127.0.0.1:5000/.
+Open your web browser and navigate to https://iris-classification-5.onrender.com/  .
 
 Enter the sepal length, sepal width, petal length, and petal width of the Iris flower.
 
